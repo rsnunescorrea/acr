@@ -1,0 +1,16 @@
+C:\Users\rsnun\clouddrive\ipcheck\bin\Debug\net5.0\ipcheck.exe
+C:\Users\rsnun\clouddrive\ipcheck\bin\Debug\net5.0\ipcheck.deps.json
+C:\Users\rsnun\clouddrive\ipcheck\bin\Debug\net5.0\ipcheck.runtimeconfig.json
+C:\Users\rsnun\clouddrive\ipcheck\bin\Debug\net5.0\ipcheck.runtimeconfig.dev.json
+C:\Users\rsnun\clouddrive\ipcheck\bin\Debug\net5.0\ipcheck.dll
+C:\Users\rsnun\clouddrive\ipcheck\bin\Debug\net5.0\ref\ipcheck.dll
+C:\Users\rsnun\clouddrive\ipcheck\bin\Debug\net5.0\ipcheck.pdb
+C:\Users\rsnun\clouddrive\ipcheck\obj\Debug\net5.0\ipcheck.csprojAssemblyReference.cache
+C:\Users\rsnun\clouddrive\ipcheck\obj\Debug\net5.0\ipcheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsnun\clouddrive\ipcheck\obj\Debug\net5.0\ipcheck.AssemblyInfoInputs.cache
+C:\Users\rsnun\clouddrive\ipcheck\obj\Debug\net5.0\ipcheck.AssemblyInfo.cs
+C:\Users\rsnun\clouddrive\ipcheck\obj\Debug\net5.0\ipcheck.csproj.CoreCompileInputs.cache
+C:\Users\rsnun\clouddrive\ipcheck\obj\Debug\net5.0\ipcheck.dll
+C:\Users\rsnun\clouddrive\ipcheck\obj\Debug\net5.0\ref\ipcheck.dll
+C:\Users\rsnun\clouddrive\ipcheck\obj\Debug\net5.0\ipcheck.pdb
+C:\Users\rsnun\clouddrive\ipcheck\obj\Debug\net5.0\ipcheck.genruntimeconfig.cache
